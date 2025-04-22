@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar055&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumar055" /> </p>
 
-- 🌱 I’m currently learning **Backend(node Js) and Database**
+- 🌱 I’m currently learning **CyberSecurity**
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **React, Javascript, Node Js, Express Js, Mongodb**
 
 - 📫 How to reach me **deepakkumr2098@gmail.com**
 
