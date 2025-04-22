@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">A passionate frontend developer from Mohali, Punjab</h3>
+<h3 align="center">A passionate Mern Stack Developer from Mohali, Punjab</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar055&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumar055" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Javascript, Node Js, Express Js, Mongodb**
 
-- 📫 How to reach me **deepakkumr2098@gmail.com**
+- 📫 How to reach me **deepakkumr0818@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
